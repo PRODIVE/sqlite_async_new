@@ -1,4 +1,4 @@
-name: drift_sqlite_async_monorepo
+name: sqlite_async
 
 environment:
   sdk: ">=3.4.0 <4.0.0"
