@@ -1,4 +1,4 @@
-name: sqlite_async
+name: sqlite_async_new
 
 environment:
   sdk: ">=3.4.0 <4.0.0"
